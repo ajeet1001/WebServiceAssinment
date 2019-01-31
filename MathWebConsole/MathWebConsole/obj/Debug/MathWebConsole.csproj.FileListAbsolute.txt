@@ -1,0 +1,7 @@
+C:\Users\ajeeth.kumar\source\repos\MathWebConsole\MathWebConsole\bin\Debug\MathWebConsole.exe.config
+C:\Users\ajeeth.kumar\source\repos\MathWebConsole\MathWebConsole\bin\Debug\MathWebConsole.exe
+C:\Users\ajeeth.kumar\source\repos\MathWebConsole\MathWebConsole\bin\Debug\MathWebConsole.pdb
+C:\Users\ajeeth.kumar\source\repos\MathWebConsole\MathWebConsole\obj\Debug\MathWebConsole.csprojAssemblyReference.cache
+C:\Users\ajeeth.kumar\source\repos\MathWebConsole\MathWebConsole\obj\Debug\MathWebConsole.csproj.CoreCompileInputs.cache
+C:\Users\ajeeth.kumar\source\repos\MathWebConsole\MathWebConsole\obj\Debug\MathWebConsole.exe
+C:\Users\ajeeth.kumar\source\repos\MathWebConsole\MathWebConsole\obj\Debug\MathWebConsole.pdb
